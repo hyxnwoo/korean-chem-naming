@@ -16,6 +16,8 @@ C<sub>4</sub>H<sub>10</sub> - 네탄\
 C<sub>5</sub>H<sub>12</sub> - 다섯탄\
 C<sub>10</sub>H<sub>22</sub> - 열탄
 
+The decision of making rules in that manner is arbitrary. The one of the possible solutions could be setting numerical terms similar to English ones without the vowel (e.g 1-메ㅌ, 5-펜ㅌ, 10-데ㅋ) and an/안 would be connected with the consonant. This way we could build names that are more blended into current nomenclature, as they would be generally transliteration of Polish naming. But one of advantages of using proposed numerical terms are direct relation with numbers used in Korean.
+
 
 [^1]: IUPAC Bluebook P-21.2.1
 [^2]: In this manner, new nomenclature rules will be introduced
